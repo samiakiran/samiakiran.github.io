@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Samia Kiran, a Computer Science graduate with great interest in developing light weight Deep Neural Networks. I am an AI enthusiast aspiring to translate the power of Artificial Intelligence to everyday activities. My passion is to apply my knowledge in tackling genuine issues like HealthCare.
+Hi, my name is Samia Kiran, a Computer Science graduate with strong interest in developing light weight Deep Neural Networks. My goal as an AI enthusiast is to bring the benefits of artificial intelligence to everyday life. I am eager to use my knowledge and skills to solve real-world problems, particularly in the area of healthcare.
 
-I am currently a Master student in Computer Science at National University of Sciences & Technology (NUST), Pakistan. My thesis revolves around the idea of  ‘Pre-Impact Fall Detection’ in elderly using Deep Learning. I would be graduating in March 2023. 
+I am currently pursuing a Master's degree in Computer Science at National University of Sciences & Technology (NUST), Pakistan. My thesis revolves around the idea of  ‘Fall Detection’ in elderly using Deep Learning. I would be graduating in March 2023. 
 
-Moreover, I am working remotely as a Python Scripter at [Odetta, Inc.](https://odetta.ai/), a US startup based in San Francisco, California (recognized by Forbes as [Top#25 Best Startup Employers in America, 2022)](https://www.forbes.com/companies/odetta/?sh=3663bca36750). My core responsibilities include developing scripts in Python for automatically fetching different kinds of data from the websites across the globe.
+Moreover, I am employed as a remote Python Scripter at [Odetta, Inc.](https://odetta.ai/), a US-based startup located in San Francisco, California (which is recognized by Forbes as [Top#25 Best Startup Employers in America, 2022)](https://www.forbes.com/companies/odetta/?sh=3663bca36750). My primary responsibilities include creating scripts using Python to automatically collect various types of data from websites worldwide.
