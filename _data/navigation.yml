@@ -6,11 +6,18 @@ main:
   - title: "Awards"
     url: /awards/
     
-  - title: "Certifications"
-    url: /certification/
+  - title: "MOOCS"
+    url: /moocs/
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "MS Thesis"
+    url: /ms-thesis/
+    
+      
+  - title: "Semester Projects"
+    url: /semester-projects/
 
     
 
