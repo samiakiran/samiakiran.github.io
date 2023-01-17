@@ -16,7 +16,7 @@ Microsoft Imagine Cup Regional Winner (2018)
   the Internet of Things. The essentials of this research was to lessen /control power consumption by
   analyzing the current utilization situation. A minimal effort single module framework was created to
   detect, figure and exchange continuous information. In addition, the system gave an easy to use
-  interface for an intuitive experience to the Users.
+  interface for an intuitive experience to the users.
   * [Credentials](https://samiakiran.github.io/files/imagine-cup.jpg)
 
 Academic Honor Roll
