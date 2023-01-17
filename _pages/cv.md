@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Computer Science (CGPA: 3.44), 2018
+* Master of Science in Computer Science (CGPA: 3.69), 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 – Current: Python Scripter
+    I am working remotely with a US-based startup [Odetta,Inc.](https://odetta.ai/) as a custom bot developer, specializing in web scraping. We work for different
+    big clients from across the US. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites       worldwide.
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Teaching Assistant
+  Teacher Assistant for the course of Big data analytics. My duties includes designing coding assignment and
+  quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
   
 Skills
 ======
