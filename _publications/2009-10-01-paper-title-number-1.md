@@ -1,15 +1,29 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards Efficient Energy Monitoring Using IoT"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-11-2-INMIC-1
+excerpt: 'The purpose of this study is to monitor electricity consumption in dormitories, private rooms in hospitals, hostels...'
+date: 2018-11-2
+venue: '2018 IEEE 21st International Multi-Topic Conference (INMIC)'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract— The purpose of this study is to monitor electricity
+consumption in dormitories, private rooms in hospitals, hostels
+and such buildings where the users are provided with the basic
+package that defines which electric appliances are allowed and
+which high wattage appliances (e.g. electric heaters, electric rods,
+hot plates) are not allowed to use. Efficient Energy Monitoring
+revolves around the idea of Internet of Things, which deploys
+smart monitoring concepts in existing electricity energy
+consuming environments. The system monitors the real-time
+electricity consumption of each individual room of a building,
+showing users the complete statistical reports of their
+consumption, notifying them if they are using any high wattage
+appliance that crosses the threshold set by their administrative
+authorities and do the predictive analysis to predict the future
+electricity consumption and thus visualize the analytics. .
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Citation: Kiran, S., Khattak, H. A., Butt, H. I., & Ahmed, A. (2018, November). Towards efficient energy monitoring using iot. In 2018 IEEE 21st International Multi-Topic Conference (INMIC) (pp. 1-4). IEEE.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+[paper link](Towards_Efficient_Energy_Monitoring_Using_IoT.pdf)
