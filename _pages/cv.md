@@ -38,7 +38,7 @@ pages, building Rest APIs and scrapping the web pages. I worked on the following
 PHP (Laravel), Python, Sql database, JavaScript, XML, HTML, CSS, Bootstrap.
 
 * **6/2017 - 06/2018: Research Assistant**
-  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS Univeristy Islamabad ([CUI](https://www.comsats.edu.pk/))with Dr. Hasan Ali
+  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS Univeristy Islamabad ([CUI](https://www.comsats.edu.pk/)) with Dr. Hasan Ali
 Khattak. The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in
 existing electricity energy consuming enviornment. I worked on Microsoft Azure Cloud, Built a website using PHP
 (Laravel) and programmed in Python on Raspberry Pi.
