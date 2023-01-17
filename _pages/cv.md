@@ -22,7 +22,7 @@ Work experience
   * TA ship with [Dr. Hasan Ali Khattak](https://scholar.google.com/citations?user=dyEt0FUAAAAJ&hl=en&oi=ao) for the course of Big Data Analytics at [SEECS NUST](https://seecs.nust.edu.pk/). I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
 
 * **10/2019 - 04/2020: College Teaching Intern**
-  * I instructed to 11th Grade, 12th Grade and Bachelor of Arts (B.A) students. I was teaching multiple subjects of
+  * I taught 11th Grade, 12th Grade and Bachelor of Arts (B.A) students at Govt College For Women. I was teaching multiple subjects of
 Computer Science including Database Management System (DBMS), Operating System, Information Technology,
 Visual Basic programming and C language.
 I was also responsible for managing the Computer LAB at the college and enhancing the student experience of
@@ -55,19 +55,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
