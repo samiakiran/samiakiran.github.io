@@ -20,7 +20,7 @@ Work experience
     * I am working remotely with a US-based startup [Odetta,Inc.](https://odetta.ai/) as a custom bot developer, specializing in web scraping. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites       worldwide.
 
 * **Spring 2022: Teaching Assistant**
-  * TA ship with [Dr. Hasan Ali Khattak](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big data analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
+  * TA ship with [Dr. Hasan](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big data analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
 
 * **10/2019 - 04/2020: College Teaching Intern**
   * I instructed to 11th Grade, 12th Grade and Bachelor of Arts (B.A) students. I was teaching multiple subjects of
