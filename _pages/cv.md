@@ -21,7 +21,7 @@ Work experience
     big clients from across the US. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites       worldwide.
 
 * **Spring 2022: Teaching Assistant**
-  * Teacher Assistant for the course of Big data analytics at National University of Sciences and Technology (NUST). I was responsible for designing coding assignment     and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
+  * Teacher Assistant for the course of Big data analytics at [SEECS, NUSt](https://seecs.nust.edu.pk/). I was responsible for designing coding assignment     and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
 
 * **10/2019 - 04/2020: College Teaching Intern**
   * I instructed to 11th Grade, 12th Grade and Bachelor of Arts (B.A) students. I was teaching multiple subjects of
@@ -38,7 +38,7 @@ pages, building Rest APIs and scrapping the web pages. I worked on the following
 PHP (Laravel), Python, Sql database, JavaScript, XML, HTML, CSS, Bootstrap.
 
 * **6/2017 - 06/2018: Research Assistant**
-  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS Univeristy Islamabad with Dr. Hasan Ali
+  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS Univeristy Islamabad ([CUI](https://www.comsats.edu.pk/))with Dr. Hasan Ali
 Khattak. The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in
 existing electricity energy consuming enviornment. I worked on Microsoft Azure Cloud, Built a website using PHP
 (Laravel) and programmed in Python on Raspberry Pi.
