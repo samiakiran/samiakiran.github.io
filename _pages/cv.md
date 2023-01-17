@@ -24,9 +24,9 @@ Work experience
 * **10/2019 - 04/2020: College Teaching Intern**
   * I taught 11th Grade, 12th Grade and Bachelor of Arts (B.A) students at Govt College For Women. I was teaching multiple subjects including Database Management System (DBMS), Operating System, Information Technology,
 Visual Basic programming and C language.
-* I was also responsible for managing the Computer Lab at the college and enhancing the student experience of
-laboratory practicals including MSWord, MS-Excel, C Programming, Visual Basic Programming, DBMS and
-windows operating system practicals.
+  * I was also responsible for managing the Computer Lab at the college and enhancing the student experience of
+  laboratory practicals including MSWord, MS-Excel, C Programming, Visual Basic Programming, DBMS and
+  windows operating system practicals.
 
 * **7/2018 - 02/2019: Full Stack Web Developer**
   * As a Full Stack Web Developer at [Experts Vision](https://eveati.com/) I was responsible for developing and maintaining web applications using Laravel PHP, HTML, CSS, XML and JavaScript. 
