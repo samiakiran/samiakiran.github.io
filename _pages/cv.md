@@ -43,7 +43,7 @@ and programmed in Python on Raspberry Pi.
   
 ## Skills
 
-* Tensorflow, Keras, Pytorch, Sklearn, Numpy, Matplotlib, Pandas, Seaborn.
+* Tensorflow, Keras, Pytorch, Sklearn, Numpy, Matplotlib, Pandas, Seaborn, Sci-kit learn.
 * Python, PHP, HTML, CSS, XML, JavaScript.
 * Docker, Git.
 
