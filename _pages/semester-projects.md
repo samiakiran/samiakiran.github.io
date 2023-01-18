@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Machine Learning (Mushroom Classification)
-======
+## Machine Learning (Mushroom Classification)
+
 * Identifying edible mushrooms from poisonous ones can be challenging due to the vast number of mushrooms and their similar characteristics. Utilizing Machine Learning, specifically classification, can aid in identifying mushrooms by finding patterns in large amounts of data. In this project, we explored the use of 4 Machine Learning techniques  namely KNN, SVM, Naive Bayes and Random forest to distinguish edible mushrooms from poisonous. 
 
 * GitHub repository
 
-Natural Language Processing (Toxic Content Classification)
-======
+## Natural Language Processing (Toxic Content Classification)
+
 * Online hateful discourse is an infant issue in our
 cutting edge society which is developing at a consistent rate.
 Many people stop expressing themselves and give up on seeking
@@ -36,6 +36,6 @@ Deep Learning (Early detection of Cancer)
 * In this course, we delved into the project of early detection of lung cancer, utilizing the book "Deep Learning with PyTorch" as a guide. The focus of the study was the automatic identification of malignant tumors in the lungs using only a CT scan of a patient's chest as input, which includes both healthy and cancerous tissue. 
 
 * [GitHub repository](https://github.com/deep-learning-with-pytorch/dlwpt-code)
-* [Class Presentation]((https://samiakiran.github.io/files/cancerous-tissues-classification.pdf))
+* [Class Presentation](https://samiakiran.github.io/files/cancerous-tissues-classification.pdf)
 
 
