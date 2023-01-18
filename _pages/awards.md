@@ -11,7 +11,7 @@ redirect_from:
 
 Microsoft Imagine Cup Regional Winner (2018)
 ======
-  * Every year, Microsoft holds a competition for students worldwide to create applications that shape how we live, work and play employing the latest Microsoft services. I participated in the 2018 competition and was very awarded as Regional Winner on my Final Year Project
+  * Every year, Microsoft holds a competition for students worldwide to create applications that shape how we live, work and play employing the latest Microsoft services. I participated in the 2018 competition and was awarded as Regional Winner on my final year project.
   * My submission was a system for real-time power utilization monitoring, it exploited the concept of
   the Internet of Things. The essentials of this research was to lessen /control power consumption by
   analyzing the current utilization situation. A minimal effort single module framework was created to

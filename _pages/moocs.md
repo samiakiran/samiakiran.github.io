@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MOOCS (Massive open online courses)"
+title: "MOOCS (massive open online courses)"
 permalink: /moocs/
 author_profile: true
 redirect_from:
