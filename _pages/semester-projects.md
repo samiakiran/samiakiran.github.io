@@ -31,8 +31,8 @@ proposed method Bi-LSTM+CNN gives a better AUC score of 98.78.
 * GitHub repository
 
 
-Deep Learning (Early detection of Cancer)
-======
+## Deep Learning (Early detection of Cancer)
+
 * In this course, we delved into the project of early detection of lung cancer, utilizing the book "Deep Learning with PyTorch" as a guide. The focus of the study was the automatic identification of malignant tumors in the lungs using only a CT scan of a patient's chest as input, which includes both healthy and cancerous tissue. 
 
 * [GitHub repository](https://github.com/deep-learning-with-pytorch/dlwpt-code)

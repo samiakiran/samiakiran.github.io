@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Bachelor of Science in Computer Science (CGPA: 3.44), 2018
 * Master of Science in Computer Science (CGPA: 3.69), 2023 (expected)
 
-Work experience
-======
+## Work experience
+
 * **9/2020 – Current: Python Scripter**
     * I am working remotely with a US-based startup [Odetta, Inc](https://odetta.ai/) as a custom bot developer, specializing in web scraping. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites       worldwide.
 
@@ -40,12 +41,14 @@ Khattak. The purpose of this study was to deploy smart monitoring concept (throu
 existing electricity energy consuming enviornment. I have experinced working on Microsoft Azure Cloud, built a website using Laravel PHP
 and programmed in Python on Raspberry Pi.
   
-Skills
-======
-* Tensorflow, Keras, Pytorch, Docker, Python, Git
+## Skills
 
-Publications
-======
+* Tensorflow, Keras, Pytorch, Sklearn, Numpy, Matplotlib, Pandas, Seaborn.
+* Python, PHP, HTML, CSS, XML, JavaScript.
+* Docker, Git.
+
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

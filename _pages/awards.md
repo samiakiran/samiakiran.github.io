@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Honors & Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
@@ -9,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Microsoft Imagine Cup Regional Winner (2018)
-======
+## Microsoft Imagine Cup Regional Winner (2018)
+
   * Every year, Microsoft holds a competition for students worldwide to create applications that shape how we live, work and play employing the latest Microsoft services. I participated in the 2018 competition and was awarded as Regional Winner on my final year project.
   * My submission was a system for real-time power utilization monitoring, it exploited the concept of
   the Internet of Things. The essentials of this research was to lessen /control power consumption by
@@ -19,8 +20,8 @@ Microsoft Imagine Cup Regional Winner (2018)
   interface for an intuitive experience to the users.
   * [Credentials](https://samiakiran.github.io/files/imagine-cup.jpg)
 
-Academic Honor Roll
-======
+## Academic Honor Roll
+
   * Listed in the Honor roll of Spring 2018 at Computer Science department of Comsats University Islamabad for achieving an outstanding academic position in 7th semester.
   * [Credentials](https://samiakiran.github.io/files/honor-roll.jpg)
 
