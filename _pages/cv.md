@@ -36,10 +36,11 @@ Visual Basic programming and C language.
   * Experience with version control using Git.
 
 * **6/2017 - 06/2018: Research Assistant**
-  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS Univeristy Islamabad ([CUI](https://www.comsats.edu.pk/)) with Dr. Hasan Ali
-Khattak. The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in
-existing electricity energy consuming enviornment. I have experinced working on Microsoft Azure Cloud, built a website using Laravel PHP
-and programmed in Python on Raspberry Pi.
+
+  * I worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS University Islamabad ([CUI](https://www.comsats.edu.pk/)) with Dr. Hasan Ali
+  Khattak. The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in
+  existing electricity energy consuming environment. I have experinced working on Microsoft Azure Cloud, built a website using Laravel PHP
+  and programmed in Python on Raspberry Pi.
   
 ## Skills
 
