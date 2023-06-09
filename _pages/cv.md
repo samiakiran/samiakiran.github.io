@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* Bachelor of Science in Computer Science (CGPA: 3.44), 2018
-* Master of Science in Computer Science (CGPA: 3.69), 2023 (expected)
+* Bachelor of Science in Computer Science (CGPA: 3.44), 2018.
+* Master of Science in Computer Science (CGPA: 3.75), 2023.
 
 ## Work experience
 
