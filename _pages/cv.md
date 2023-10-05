@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 
-* BS Computer Science | COMSATS University Islamabad (**CGPA: 3.44**), 2018.
 * MS Computer Science | National University of Sciences and Technology (**CGPA: 3.75**), 2023.
+* BS Computer Science | COMSATS University Islamabad (**CGPA: 3.44**), 2018.
+
 
 ## Work experience
 
