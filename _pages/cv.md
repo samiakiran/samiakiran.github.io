@@ -11,13 +11,19 @@ redirect_from:
 
 ## Education
 
-* Bachelor of Science in Computer Science (CGPA: 3.44), 2018.
-* Master of Science in Computer Science (CGPA: 3.75), 2023.
+* BS Computer Science | COMSATS University Islamabad (**CGPA: 3.44**), 2018.
+* MS Computer Science | National University of Sciences and Technology (**CGPA: 3.75**), 2023.
 
 ## Work experience
 
 * **9/2020 – Current: Python Scripter**
-    * I am working remotely with a US-based startup [Odetta, Inc](https://odetta.ai/) as a custom bot developer, specializing in web scraping. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites       worldwide.
+    * I am working remotely with a US-based startup [Odetta, Inc](https://odetta.ai/) as a custom bot developer, specializing in web scraping. My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites worldwide.
+
+* **6/2023 - 08/2023: DSSG Research Fellow**
+    * As a DSSG (Data Science For Social good) summer research fellow at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/data-science-and-its-applications), I have worked on the project of "Speeding up ambulance services through demand forecasting and positioning recommendations," focusing on enhancing emergency response times in collaboration with[Deutsches Rotes Kreuz] (https://www.drk.de/)
+    * Successfully developed a system that predicts call volumes and optimized ambulance placement for more efficient and timely response and identified a set of additional possible locations for temporary ambulance placement.
+    * [Project Presenation](https://www.youtube.com/watch?v=NOWofvaEsmk)
+    * [Poster Link](https://samiakiran.github.io/files/DRK_poster_2023.pdf)
 
 * **Spring 2022: Teaching Assistant**
   * TAship with [Dr. Hasan Ali Khattak](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
