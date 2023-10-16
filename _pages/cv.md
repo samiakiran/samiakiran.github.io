@@ -28,11 +28,6 @@ redirect_from:
    * Deployed smart monitoring in existing electricity consumption using Machine Learning.
   *  Gained hands-on experience with Microsoft Azure Cloud, developed a website with Laravel PHP, and programmed Raspberry Pi using Python.
 
-    <!-- * Worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS  University Islamabad ([CUI](https://www.comsats.edu.pk/)) with Dr. Hasan Ali
-    Khattak. 
-    * The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in existing electricity energy consuming environment. 
-    * Experinced working on Microsoft Azure Cloud, built a website using Laravel PHP and programmed in Python on Raspberry Pi. -->
-
 ## Teaching Experience
 * Spring 2022**: Teaching Assistant**
   * TAship with [Dr. Hasan Ali Khattak](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). 
@@ -43,18 +38,14 @@ redirect_from:
   * Managed the college Computer LAB, enhancing students' practical experience in MS
   Word, MS Excel, C Programming, Visual Basic Programming, DBMS, and Windows
   Operating System.
-  <!--  I taught 11th Grade, 12th Grade and Bachelor of Arts (B.A) students at Govt College For Women. I was teaching multiple subjects including Database Management System (DBMS), Operating System, Information Technology,
-Visual Basic programming and C language.
-  * I was also responsible for managing the Computer Lab at the college and enhancing the student experience of
-  laboratory practicals including MSWord, MS-Excel, C Programming, Visual Basic Programming, DBMS and
-  windows operating system practicals. -->
+
 
 ## Work Experience
 
 * 9/2020 – Current**: Python Scripter**
     * I am currently working remotely with [Odetta, Inc](https://odetta.ai/), a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
     * My primary responsibilities include creating scripts in Python to scrape various types of data from websites worldwide.
-    <!-- My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites worldwide. -->
+   
 
 * 7/2018 - 02/2019**: Full Stack Web Developer**
   * As a Full Stack Web Developer at [Experts Vision](https://eveati.com/) I was responsible for developing and maintaining web applications using Laravel PHP, HTML, CSS, XML and JavaScript. 
