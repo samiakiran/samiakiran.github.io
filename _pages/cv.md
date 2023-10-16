@@ -23,7 +23,7 @@ redirect_from:
     * [Project Presenation](https://www.youtube.com/watch?v=NOWofvaEsmk)
     * [Poster Link](https://samiakiran.github.io/files/DRK_poster_2023.pdf)
 
-  * 6/2017 - 06/2018**: Research Assistant**
+* 6/2017 - 06/2018**: Research Assistant**
    * Worked as a Research Assistant on the project titled ”Towards Efficient Energy
       Monitoring via IoT (Internet of Things)” at COMSATS University Islamabad.
    * Deployed smart monitoring in existing electricity consumption using Machine Learning.
@@ -71,7 +71,7 @@ Visual Basic programming and C language.
 * Docker, Git.
 
 ## Publications
-* **2018**  Kiran, Samia, et al. "Towards efficient energy monitoring using iot." 2018 IEEE 21st International Multi-Topic Conference (INMIC). IEEE, 2018.
-* **2023** Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sesnor Journal (submitted).
+* **2018**      Kiran, Samia, et al. "Towards efficient energy monitoring using iot." 2018 IEEE 21st International Multi-Topic Conference (INMIC). IEEE, 2018.
+* **2023**      Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sesnor Journal (submitted).
 
  
