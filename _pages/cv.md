@@ -20,14 +20,14 @@ redirect_from:
 * 6/2023 - 08/2023: **DSSG Research Fellow**
     * As a DSSG (Data Science For Social good) summer research fellow at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/data-science-and-its-applications), I have worked on the project of "Speeding up ambulance services through demand forecasting and positioning recommendations," focusing on enhancing emergency response times in collaboration with [Deutsches Rotes Kreuz](https://www.drk.de/).
     * Successfully developed a system that predicts call volumes, optimize ambulance placement for an efficient and timely response to an emergency and identified a set of additional possible locations for temporary ambulance placement.
-    * [Project Presenation](https://www.youtube.com/watch?v=NOWofvaEsmk)
-    * [Poster Link](https://samiakiran.github.io/files/DRK_poster_2023.pdf)
+    * [Project Presenation](https://www.youtube.com/watch?v=NOWofvaEsmk), [Poster Link](https://samiakiran.github.io/files/DRK_poster_2023.pdf)
 
 * 6/2017 - 06/2018**: Research Assistant**
    * Worked as a Research Assistant on the project titled ”Towards Efficient Energy
       Monitoring via IoT (Internet of Things)” at COMSATS University Islamabad.
    * Deployed smart monitoring in existing electricity consumption using Machine Learning.
   *  Gained hands-on experience with Microsoft Azure Cloud, developed a website with Laravel PHP, and programmed Raspberry Pi using Python.
+
     <!-- * Worked as a RA on a project titled ”Towards Efficient Energy Monitoring via IoT (Internet of Things)” at COMSATS  University Islamabad ([CUI](https://www.comsats.edu.pk/)) with Dr. Hasan Ali
     Khattak. 
     * The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in existing electricity energy consuming environment. 
@@ -52,7 +52,7 @@ Visual Basic programming and C language.
 ## Work Experience
 
 * 9/2020 – Current**: Python Scripter**
-    * I am currently working remotely with a US-based startup located in San Francisco, California [Odetta, Inc](https://odetta.ai/) as a custom bot developer, specializing in web scraping. 
+    * I am currently working remotely with [Odetta, Inc](https://odetta.ai/), a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
     * My primary responsibilities include creating scripts in Python to scrape various types of data from websites worldwide.
     <!-- My core responsibilities includes developing scripts in Python for automatically fetching various types of data from the websites worldwide. -->
 
