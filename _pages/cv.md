@@ -43,7 +43,7 @@ redirect_from:
   * Managed the college Computer LAB, enhancing students' practical experience in MS
   Word, MS Excel, C Programming, Visual Basic Programming, DBMS, and Windows
   Operating System.
-  <!-- * I taught 11th Grade, 12th Grade and Bachelor of Arts (B.A) students at Govt College For Women. I was teaching multiple subjects including Database Management System (DBMS), Operating System, Information Technology,
+  <!--  I taught 11th Grade, 12th Grade and Bachelor of Arts (B.A) students at Govt College For Women. I was teaching multiple subjects including Database Management System (DBMS), Operating System, Information Technology,
 Visual Basic programming and C language.
   * I was also responsible for managing the Computer Lab at the college and enhancing the student experience of
   laboratory practicals including MSWord, MS-Excel, C Programming, Visual Basic Programming, DBMS and
