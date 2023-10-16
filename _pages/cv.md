@@ -15,7 +15,7 @@ redirect_from:
 * BS Computer Science \| COMSATS University Islamabad (**CGPA: 3.44**), 2018.
 
 
-## Research experience
+## Research Experience
 
 * 6/2023 - 08/2023: **DSSG Research Fellow**
     * As a DSSG (Data Science For Social good) summer research fellow at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/data-science-and-its-applications), I have worked on the project of "Speeding up ambulance services through demand forecasting and positioning recommendations," focusing on enhancing emergency response times in collaboration with [Deutsches Rotes Kreuz](https://www.drk.de/).
@@ -33,7 +33,7 @@ redirect_from:
     * The purpose of this study was to deploy smart monitoring concept (through Machine Learning) in existing electricity energy consuming environment. 
     * Experinced working on Microsoft Azure Cloud, built a website using Laravel PHP and programmed in Python on Raspberry Pi. -->
 
-## Teaching experience
+## Teaching Experience
 * Spring 2022**: Teaching Assistant**
   * TAship with [Dr. Hasan Ali Khattak](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). 
   * I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
@@ -49,7 +49,7 @@ Visual Basic programming and C language.
   laboratory practicals including MSWord, MS-Excel, C Programming, Visual Basic Programming, DBMS and
   windows operating system practicals. -->
 
-## Work experience
+## Work Experience
 
 * 9/2020 – Current**: Python Scripter**
     * I am currently working remotely with a US-based startup located in San Francisco, California [Odetta, Inc](https://odetta.ai/) as a custom bot developer, specializing in web scraping. 
