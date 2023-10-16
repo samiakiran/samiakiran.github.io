@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* MS Computer Science \| National University of Sciences and Technology (**CGPA: 3.75**), 2023.
-* BS Computer Science \| COMSATS University Islamabad (**CGPA: 3.44**), 2018.
+* MS Computer Science \| National University of Sciences and Technology, Pakistan (**CGPA: 3.75**) 2023.
+* BS Computer Science \| COMSATS University Islamabad, Pakistan (**CGPA: 3.44**) 2018.
 
 
 ## Research Experience
