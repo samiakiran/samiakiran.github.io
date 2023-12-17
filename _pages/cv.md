@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* MS Computer Science \| National University of Sciences and Technology, Pakistan (**CGPA: 3.75**) 2023.
-* BS Computer Science \| COMSATS University Islamabad, Pakistan (**CGPA: 3.44**) 2018.
+* MS Computer Science \| National University of Sciences and Technology, Pakistan (**CGPA: 3.75/4**) 2023.
+* BS Computer Science \| COMSATS University Islamabad, Pakistan (**CGPA: 3.44/4**) 2018.
 
 
 ## Research Experience
@@ -63,6 +63,6 @@ redirect_from:
 
 ## Publications
 * **2018** &nbsp;&nbsp;     Kiran, Samia, et al. "Towards efficient energy monitoring using iot." 2018 IEEE 21st International Multi-Topic Conference (INMIC). IEEE, 2018.
-* **2023** &nbsp;&nbsp;     Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sensor Journal (submitted).
+* **2023** &nbsp;&nbsp;     Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sensor Journal (under revision).
 
  
