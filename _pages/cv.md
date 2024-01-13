@@ -40,7 +40,7 @@ redirect_from:
   Operating System.
 
 
-## Work Experience
+## Industrial Experience
 
 * 9/2020 – Current**: Python Scripter**
     * I am currently working remotely with [Odetta, Inc](https://odetta.ai/), a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
@@ -48,7 +48,7 @@ redirect_from:
    
 
 * 7/2018 - 02/2019**: Full Stack Web Developer**
-  * As a Full Stack Web Developer at [Experts Vision](https://eveati.com/) I was responsible for developing and maintaining web applications using Laravel PHP, HTML, CSS, XML and JavaScript. 
+  * As a Full Stack Web Developer at Experts Vision. I was responsible for developing and maintaining web applications using Laravel PHP, HTML, CSS, XML and JavaScript. 
   * Creating and integrating with MySQL database. 
   * Designing webpages, building Rest APIs and Scrapping the web pages.
   * Experience with version control using Git.
