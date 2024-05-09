@@ -63,6 +63,6 @@ redirect_from:
 
 ## Publications
 * **2018** &nbsp;&nbsp;     Kiran, Samia, et al. "Towards efficient energy monitoring using iot." 2018 IEEE 21st International Multi-Topic Conference (INMIC). IEEE, 2018.
-* **2024** &nbsp;&nbsp;     Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sensor Journal (revision submitted).
+* **2024** &nbsp;&nbsp;     Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sensor Journal (IF 4.3) (revision submitted).
 
  
