@@ -30,7 +30,7 @@ redirect_from:
 
 ## Teaching Experience
 * Spring 2022**: Teaching Assistant**
-  * TAship with [Dr. Hasan Ali Khattak](https://www.linkedin.com/in/hasanalikhattak/) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). 
+  * TAship with [Dr. Hasan Ali Khattak](https://github.com/hasanalikhattak) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). 
   * I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
 
 * 10/2019 - 04/2020**: College Teaching Intern (CTI)**
