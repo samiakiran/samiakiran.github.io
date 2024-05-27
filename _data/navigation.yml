@@ -9,8 +9,8 @@ main:
   - title: "MOOCS"
     url: /moocs/
     
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
     
   - title: "MS Thesis"
     url: /ms-thesis/
