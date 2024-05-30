@@ -13,7 +13,7 @@ redirect_from:
 ## DSSG fellowship Awardee (2023)
 
   * Data Science for Social Good (DSSG) is a funded summer research fellowship that invites top students from around the globe to collaborate on data science projects with a positive social impact.
-  * It is a 12-week-long program and takes place at the German research center for AI [(DFKI)](https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen) and [RPTU](https://rptu.de/en/) Kaiserslautern, Germany each year.
+  * It is a 12-week-long program and takes place at the German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen) and [RPTU](https://rptu.de/en/) Kaiserslautern, Germany each year.
   * Out of the 12 selected fellows, I am honored to be the first from my country to acquire this fellowship.
   * [Read more](https://sebastian.vollmer.ms/dssg/)
 
