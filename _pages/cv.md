@@ -43,7 +43,7 @@ redirect_from:
 ## Industrial Experience
 
 * 9/2020 – Current**: Python Scripter**
-    * I am currently working remotely with [Odetta, Inc](https://odetta.ai/), a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
+    * I am currently working remotely with Odetta, Inc](https://odetta.ai/)[, a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
     * My primary responsibilities include creating scripts in Python to scrape various types of data from websites worldwide.
    
 
@@ -62,7 +62,8 @@ redirect_from:
 * Docker, Git.
 
 ## Publications
-* **2018** &nbsp;&nbsp;     Kiran, Samia, et al. "Towards efficient energy monitoring using iot." 2018 IEEE 21st International Multi-Topic Conference (INMIC). IEEE, 2018.
-* **2024** &nbsp;&nbsp;     Unveiling Fall Origins: Leveraging Wearable Sensors to Detect Pre-Impact Fall Causes, IEEE Sensor Journal (Q1, IF 4.3) (Accepted).
+* Samia Kiran, et al. Unveiling fall origins: Leveraging wearable sensors to detect pre-impact fall causes. IEEE Sensors Journal, pages 1–11, 2024. [DOI](https://ieeexplore.ieee.org/document/8595549)
+* Samia Kiran, et al. Towards efficient energy monitoring using iot. In 2018 IEEE 21st International Multi-Topic Conference (INMIC), pages 1–4, 2018. [DOI](https://ieeexplore.ieee.org/document/10552639)
+
 
  
