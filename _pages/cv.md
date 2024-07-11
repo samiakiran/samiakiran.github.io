@@ -61,9 +61,6 @@ redirect_from:
 * Python, PHP, HTML, CSS, XML, JavaScript.
 * Docker, Git.
 
-## Publications
-* Samia Kiran, et al. Unveiling fall origins: Leveraging wearable sensors to detect pre-impact fall causes. IEEE Sensors Journal, pages 1–11, 2024. [DOI](https://ieeexplore.ieee.org/document/8595549)
-* Samia Kiran, et al. Towards efficient energy monitoring using iot. In 2018 IEEE 21st International Multi-Topic Conference (INMIC), pages 1–4, 2018. [DOI](https://ieeexplore.ieee.org/document/10552639)
 
 
  
