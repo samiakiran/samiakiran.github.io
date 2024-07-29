@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=plCQ8AgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=plCQ8AgAAAAJ&hl=en"
   email            : "samiakiran17@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "samia-kiran-3629a3159/"
-  orcid            : "https://orcid.org/0009-0009-8801-6181"
+  orcid            : #"https://orcid.org/0009-0009-8801-6181"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
