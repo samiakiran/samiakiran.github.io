@@ -29,6 +29,11 @@ redirect_from:
   *  Gained hands-on experience with Microsoft Azure Cloud, developed a website with Laravel PHP, and programmed Raspberry Pi using Python.
 
 ## Teaching Experience
+* 9/2024 - Current**: Lecturer in Artificial Intelligence**
+  * Teaching undergraduate AI courses, including Discrete Mathematics, Data Structures, and Computer Vision.
+  * Managing departmental administrative activities.
+
+
 * 9/2022 - 01/2023**: Teaching Assistant**
   * TAship with [Dr. Hasan Ali Khattak](https://github.com/hasanalikhattak) for the course of Big Data Analytics at [SEECS, NUST](https://seecs.nust.edu.pk/). 
   * I was responsible for designing coding assignment and quizzes, evaluate student assignments, managing project submissions and student teacher coordination.
