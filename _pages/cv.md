@@ -47,8 +47,8 @@ redirect_from:
 
 ## Industrial Experience
 
-* 9/2020 – Current**: Python Scripter**
-    * I am currently working remotely with Odetta, Inc](https://odetta.ai/)[, a US-based startup located in San Francisco, California as a custom bot developer, specializing in web scraping. 
+* 9/2020 – Current**: Data Analyst**
+    * I am currently working remotely with Odetta, Inc](https://odetta.ai/)[, as a custom bot developer, specializing in web scraping. 
     * My primary responsibilities include creating scripts in Python to scrape various types of data from websites worldwide.
    
 
